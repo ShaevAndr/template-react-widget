@@ -25,7 +25,7 @@ define(['./index.js' ], function(App) {
 		  
 		},
 		advancedSettings() {
-			console.log("sdffczdsfc")
+
 			App.default.advancedSettings();
 		},
 		onSave() {
