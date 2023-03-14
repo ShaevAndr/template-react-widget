@@ -22,17 +22,19 @@ define(['./index.js' ], function(App) {
 		  return true;
 		},
 		settings() {
-		  
+		  console.log("settings")
+		  return true
 		},
 		advancedSettings() {
 
+			console.log("jjjlij")
 			App.default.advancedSettings();
 		},
 		onSave() {
-		  
+			return true;
 		},
 		destroy() {
-		  
+		  return true;
 		},
 		contacts: {
 		  selected() {

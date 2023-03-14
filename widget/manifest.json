@@ -2,7 +2,7 @@
     {"name": "widget.name",
     "description": "widget.description", 
     "short_description": "widget.short_description", 
-    "version": "17.5.49", "interface_version": 2, 
+    "version": "20.20.20", "interface_version": 2, 
     "init_once": "Y", 
     "locale": ["ru"], 
     "installation": true, 
@@ -28,19 +28,7 @@
             {
             "name": "settings.client_name", 
             "type": "text", 
-            "required": true
-            }, 
-        "phone_number": 
-            {
-            "name": "settings.phone_number", 
-            "type": "text", 
-            "required": true
-            }, 
-        "terms_of_use": 
-            {
-            "name": "settings.terms_of_use", 
-            "type": "text", 
-            "required": true
+            "required": false
             }
         }, 
     "advanced": 
