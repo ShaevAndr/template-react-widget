@@ -2,7 +2,7 @@
     {"name": "widget.name",
     "description": "widget.description", 
     "short_description": "widget.short_description", 
-    "version": "17.5.49", "interface_version": 2, 
+    "version": "1.0.0", "interface_version": 2, 
     "init_once": "Y", 
     "locale": ["ru"], 
     "installation": true, 
